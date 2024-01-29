@@ -26,7 +26,7 @@ This repository contains code and resources related to the "OBJECT-ORIENTED PROG
 
 - [Introduction](#introduction)
 - [Usage](#usage)
-- [KeyFeatures](#keyfeatures)
+- [KeyFeatures](#key-features) 
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing) 
 - [License](#license)
@@ -57,7 +57,7 @@ $ command_to_run_code
 
 🔑 This lecture is licensed under the National University of Manila License.
 
-#### National University of Manila License 
+#### National University of Manila License  
 
 The National University of Manila License grants permission to students of the National University of Manila to use, modify, and distribute this project for educational purposes within the scope of their coursework and assignments.
 
@@ -72,3 +72,6 @@ The National University of Manila License grants permission to students of the N
 * You may not use this project for commercial purposes.
 * You may not redistribute or publish this project outside the National University of Manila without explicit permission.
 
+## GitHub Repository 
+
+#### Feel free to use this modified template for your README file. You can copy and paste it directly into your repository's README.md file.
