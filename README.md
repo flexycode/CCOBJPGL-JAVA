@@ -46,12 +46,25 @@ The purpose of the "OBJECT-ORIENTED PROGRAMMING" course is to empower students w
 - **Hands-On Exercises:** Engage in practical exercises to reinforce theoretical knowledge and enhance your programming skills.
 - **Project Templates:** Use provided project templates to kickstart your assignments and projects for the course.
 
-### Source Code for README
+## Folder Structure 
+
+``bash
+/
+|-- src/            # Source code files
+|-- docs/           # Documentation files
+|-- data/           # Data files, if any
+|-- tests/          # Test cases
+|-- LICENSE         # License information
+|-- README.md       # This README file
+``
+
+## Contributing
 
 ```bash
 # Example command or set of commands
 $ command_to_run_code
 ```
+
 
 ## License 
 
@@ -71,6 +84,7 @@ The National University of Manila License grants permission to students of the N
 
 * You may not use this project for commercial purposes.
 * You may not redistribute or publish this project outside the National University of Manila without explicit permission.
+  
 
 ## GitHub Repository 
 
