@@ -48,7 +48,7 @@ The purpose of the "OBJECT-ORIENTED PROGRAMMING" course is to empower students w
 
 ## Folder Structure 
 
-``bash
+```bash
 /
 |-- src/            # Source code files
 |-- docs/           # Documentation files
@@ -56,7 +56,7 @@ The purpose of the "OBJECT-ORIENTED PROGRAMMING" course is to empower students w
 |-- tests/          # Test cases
 |-- LICENSE         # License information
 |-- README.md       # This README file
-``
+```
 
 ## Contributing
 
