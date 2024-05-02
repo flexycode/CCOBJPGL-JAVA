@@ -1,8 +1,8 @@
-# CCOBJPGL - Object-Oriented Programming
+# CCOBJPGL - Object-Oriented Programming in Java
 
 ## Overview
 
-This repository contains code and resources related to the "OBJECT-ORIENTED PROGRAMMING" course. The code is identified by the tag "CCOBJPGL."
+This repository contains code and resources related to the "OBJECT-ORIENTED PROGRAMMING" course in Java. The code is identified by the tag "CCOBJPGL."
 
 ## Table of Contents
 
