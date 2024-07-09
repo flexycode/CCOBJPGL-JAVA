@@ -1,7 +1,11 @@
-# CCOBJPGL - Object-Oriented Programming in Java
+# 💫 CCOBJPGL - Object-Oriented Programming in Java
+### Name: Jay Arre Talosig  
+### Subject & Section: TBA 
+### Professor: TBA       
+### No. of Units: 3 Units
+### Prerequisite: [CCPRGG1L Fundamentals of Programming](https://github.com/flexycode/CCPRGG2L_INTERMEDIATE_PROGRAMMING)
 
 ## Overview
-
 
 This repository contains code and resources related to the "OBJECT-ORIENTED PROGRAMMING" course in Java. The code is identified by the tag "CCOBJPGL."
 
@@ -51,15 +55,14 @@ The hands-on experience gained from working with this repository's code samples 
 |-- README.md       # This README file
 ```
 
-## Contributing
+# 🏆 Contributing
 
 ```bash
 # Example command or set of commands
 $ command_to_run_code
 ```
 
-
-## License 
+# 🔑 License 
 
 🔑 This lecture is licensed under the National University of Manila License.
 
@@ -78,9 +81,12 @@ The National University of Manila License grants permission to students of the N
 * You may not use this project for commercial purposes.
 * You may not redistribute or publish this project outside the National University of Manila without explicit permission.
   
-
 ## GitHub Repository 
 
 #### Feel free to use this modified template for your README file. You can copy and paste it directly into your repository's README.md file.
+
+# 💬 FAQ  
+
+# 📫 Changelogs   
 
 #### [Back to Table of Content](#introduction)
