@@ -43,6 +43,33 @@ The hands-on experience gained from working with this repository's code samples 
 - **Hands-On Exercises:** Engage in practical exercises to reinforce theoretical knowledge and enhance your programming skills.
 - **Project Templates:** Use provided project templates to kickstart your assignments and projects for the course.
 
+## [Lesson](#lesson)              
+
+### CCOBJPGL Table lecture
+#### Course Outline and Timeframe
+#### Subject for changes -delete this comment after you change the table
+
+| Week No. | Date Coverage | Topic                                                | Reference                                                                                           |
+|----------|---------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 1        | April 6       | Class Orientation                                   | Course Syllabus                                                                                     |  
+|          |               | - Ø University Mission & Vision                     |                                                                                                     | 
+|          |               | - Ø College Mission & Vision                        |                                                                                                     |   
+|          |               | - Ø Course Syllabi                                  |                                                                                                     |  
+|          |               | - Ø Lab Guidelines and Safety Review                |                                                                                                     |
+| 2        | April 6       | Arrays                                               | Chapter 8&9 Java Programming Eight Edition, Farrell, Joyce                                        |    
+| 3        | April 13      | File and String manipulation                         | Chapter 7&13 Java Programming Eight Edition, Farrell, Joyce                                       |
+| 4        | April 20      | Recursion                                            | Chapter 2 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
+|          | April 27      |                                                      | Chapter 13 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
+| 5        | May 4         | Regular Expression                                   | Chapter 30 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
+| 6        | May 11        | Introduction to Classes                              | Chapter 3 Java Programming Eight Edition, Farrell, Joyce                                          |
+| 7        | May 18        | Composition, objects, and classes                    | Chapter 3 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
+| 8        | May 25        | Instance method Inheritance Polymorphism             | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
+| 9        | June 1        | Introduction to Swing package                        | Chapter 14 Java Programming Eight Edition, Farrell, Joyce                                         |
+| 10       | June 8        | Interfaces and event-driven programming              | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
+| 11       | June 15       | Threads                                              | Chapter 11 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
+| 12       | June 22       | Runnable interface Synchronization                   | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
+| 13       | June 29        | Course Synthesis & Final Examination                 |                                                                                                     |
+
 ## Folder Structure 
 
 ```bash
