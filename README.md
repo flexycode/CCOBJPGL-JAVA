@@ -81,6 +81,29 @@ The hands-on experience gained from working with this repository's code samples 
 |-- LICENSE         # License information
 |-- README.md       # This README file
 ```
+#### SUGGESTED READINGS AND REFERENCES 
+
+* Java Programming Eight Edition, Farrell, Joyce, 2016 
+* Object-Oriented Data Structures Using Java Fourth Edition, Dale, Nell,2018
+* Java : The Complete Reference Tenth Edition, Schildt, Herbert, 2018
+* Introduction To Programming in Java: An Interdisciplinary Approach Second Edition, Sedgewick, Robert, 2017
+* Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017
+* Java Precisely Third Edition, Peter Sestoft, 2016
+
+#### 💻 COURSE REQUIREMENTS
+
+Assignments, Laboratory Exercises, Long Exam, Final Exam
+
+#### 💻 GRADING SYSTEM                         
+
+Other Learning Activities (20%)
+
+(Assignment, Laboratory Exercise, Seatwork, Recitations, others)
+
+Long Exams (40%)
+
+Final Exam/Project (40%)
+
 
 # 🏆 Contributing
 
