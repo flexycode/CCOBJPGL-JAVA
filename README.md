@@ -51,14 +51,14 @@ The hands-on experience gained from working with this repository's code samples 
 
 | Week No. | Date Coverage | Topic                                                | Reference                                                                                           |
 |----------|---------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| 1        | April 6       | Class Orientation                                   | Course Syllabus                                                                                     |  
+| 1        | August 10       | Class Orientation                                   | Course Syllabus                                                                                     |  
 |          |               | - Ø University Mission & Vision                     |                                                                                                     | 
 |          |               | - Ø College Mission & Vision                        |                                                                                                     |   
 |          |               | - Ø Course Syllabi                                  |                                                                                                     |  
 |          |               | - Ø Lab Guidelines and Safety Review                |                                                                                                     |
-| 2        | April 6       | Arrays                                               | Chapter 8&9 Java Programming Eight Edition, Farrell, Joyce                                        |    
-| 3        | April 13      | File and String manipulation                         | Chapter 7&13 Java Programming Eight Edition, Farrell, Joyce                                       |
-| 4        | April 20      | Recursion                                            | Chapter 2 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
+| 2        | August 17       | Arrays                                               | Chapter 8&9 Java Programming Eight Edition, Farrell, Joyce                                        |    
+| 3        | August 20      | File and String manipulation                         | Chapter 7&13 Java Programming Eight Edition, Farrell, Joyce                                       |
+| 4        | August 27      | Recursion                                            | Chapter 2 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
 |          | April 27      |                                                      | Chapter 13 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
 | 5        | May 4         | Regular Expression                                   | Chapter 30 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
 | 6        | May 11        | Introduction to Classes                              | Chapter 3 Java Programming Eight Edition, Farrell, Joyce                                          |
