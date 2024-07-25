@@ -5,11 +5,11 @@
 ### No. of Units: 3 Units
 ### Prerequisite: [CCPRGG2L Intermediate Programming](https://github.com/flexycode/CCPRGG2L_INTERMEDIATE_PROGRAMMING)
 
-## Overview
+## 🧠 Overview
 
 This repository contains code and resources related to the "OBJECT-ORIENTED PROGRAMMING" course in Java. The code is identified by the tag "CCOBJPGL."
 
-## Table of Contents
+## 📋 Table of Contents
 
 - [Introduction](#introduction)
 - [Usage](#usage)
@@ -19,7 +19,7 @@ This repository contains code and resources related to the "OBJECT-ORIENTED PROG
 - [License](#license)
 - [GitHub Repository](#github-repository) 
 
-## Introduction
+## 🛸 Introduction
 
 Welcome to the "CCOBJPGL - Object-Oriented Programming" repository! This collection of code and resources is dedicated to the educational exploration of Object-Oriented Programming (OOP). 
 
@@ -29,7 +29,7 @@ OOP emphasizes organizing code around objects, encapsulation, inheritance, and p
 
 This repository serves as a practical companion to the course, providing students with hands-on examples, exercises, and project templates to solidify their grasp of OOP concepts and cultivate effective coding practices.
 
-## Usage
+## 👷 Usage
 
 The purpose of the "OBJECT-ORIENTED PROGRAMMING" course is to empower students with the skills necessary to design and build robust, scalable, and maintainable software systems. 
 
@@ -37,13 +37,13 @@ In an increasingly complex software landscape, OOP serves as a foundational para
 
 The hands-on experience gained from working with this repository's code samples and projects aims to reinforce theoretical knowledge and prepare students for practical challenges in the realm of software development.
 
-## Key Features
+## 🚀 Key Features
 
 - **Educational Resources:** Find code snippets, examples, and projects that illustrate key OOP concepts covered in the course.
 - **Hands-On Exercises:** Engage in practical exercises to reinforce theoretical knowledge and enhance your programming skills.
 - **Project Templates:** Use provided project templates to kickstart your assignments and projects for the course.
 
-## [Lesson](#lesson)              
+## 📈 [Lesson](#lesson)              
 
 ### CCOBJPGL Table lecture
 #### Course Outline and Timeframe
@@ -70,7 +70,7 @@ The hands-on experience gained from working with this repository's code samples 
 | 12       | October 26    | Runnable interface Synchronization                   | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
 | 13       | November 2    | Course Synthesis & Final Examination                 |                                                                                                     |
 
-## Folder Structure 
+## 📜 Folder Structure 
 
 ```bash
 /
@@ -81,7 +81,7 @@ The hands-on experience gained from working with this repository's code samples 
 |-- LICENSE         # License information
 |-- README.md       # This README file
 ```
-#### SUGGESTED READINGS AND REFERENCES 
+#### 📓 SUGGESTED READINGS AND REFERENCES 
 
 * Java Programming Eight Edition, Farrell, Joyce, 2016 
 * Object-Oriented Data Structures Using Java Fourth Edition, Dale, Nell,2018
@@ -92,17 +92,17 @@ The hands-on experience gained from working with this repository's code samples 
 
 #### 💻 COURSE REQUIREMENTS
 
-Assignments, Laboratory Exercises, Long Exam, Final Exam
+➡️ Assignments, Laboratory Exercises, Long Exam, Final Exam
 
 #### 💻 GRADING SYSTEM                         
 
-Other Learning Activities (20%)
+➡️ Other Learning Activities (20%)
 
-(Assignment, Laboratory Exercise, Seatwork, Recitations, others)
+➡️ (Assignment, Laboratory Exercise, Seatwork, Recitations, others)
 
-Long Exams (40%)
+➡️ Long Exams (40%)
 
-Final Exam/Project (40%)
+➡️ Final Exam/Project (40%)
 
 
 # 🏆 Contributing
@@ -114,28 +114,37 @@ $ command_to_run_code
 
 # 🔑 License 
 
-🔑 This lecture is licensed under the National University of Manila License.
+➡️ This lecture is licensed under the National University of Manila License.
 
-#### National University of Manila License  
+#### 🔒 National University of Manila License  
 
 The National University of Manila License grants permission to students of the National University of Manila to use, modify, and distribute this project for educational purposes within the scope of their coursework and assignments.
 
-#### Usage 
+#### 📜 Usage 
 
 * You may use this project as a reference or learning material for your studies at the National University of Manila.
 * You may modify the project to suit your educational needs and requirements.
 * You may share the project with your fellow students or instructors for educational purposes.
 
-#### Restrictions
+#### 🕵️ Restrictions
 
 * You may not use this project for commercial purposes.
 * You may not redistribute or publish this project outside the National University of Manila without explicit permission.
   
-## GitHub Repository 
+## 🧰 GitHub Repository 
+
+```bash
+$ Kindly check the repository folder for codes
+```
 
 #### Feel free to use this modified template for your README file. You can copy and paste it directly into your repository's README.md file.
 
 # 💬 FAQ  
+
+```bash
+# Set of example question and answer
+$ Coming Soon...
+```
 
 # 📫 Changelogs   
 
