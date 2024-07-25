@@ -57,12 +57,12 @@ The hands-on experience gained from working with this repository's code samples 
 |          |               | - Ø Course Syllabi                                  |                                                                                                     |  
 |          |               | - Ø Lab Guidelines and Safety Review                |                                                                                                     |
 | 2        | August 17     | Review of OOP Basics                                | Chapter 8&9 Java Programming Eight Edition, Farrell, Joyce                                        |    
-| 3        | August 24     | Encapsulation, Inheritance, Polymorphism                         | Chapter 7&13 Java Programming Eight Edition, Farrell, Joyce                                       |
-| 4        | August 31     | Recursion                                            | Chapter 2 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
-|          | August 27     |                                                      | Chapter 13 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
-| 5        | September 7   | Regular Expression                                   | Chapter 30 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
-| 6        | September 14  | Introduction to Classes                              | Chapter 3 Java Programming Eight Edition, Farrell, Joyce                                          |
-| 7        | September 21  | Composition, objects, and classes                    | Chapter 3 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
+| 3        | August 24     | Encapsulation, Inheritance, Polymorphism            | Chapter 7&13 Java Programming Eight Edition, Farrell, Joyce                                       |
+| 4        | August 31     | Forms of Inheritance                                | Chapter 2 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
+|          | August 27     | Programming by Contract                             | Chapter 13 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
+| 5        | September 7   | Subtyping versus Subclassing                        | Chapter 30 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
+| 6        | September 14  | Double dispatch                                     | Chapter 3 Java Programming Eight Edition, Farrell, Joyce                                          |
+| 7        | September 21  | Multiple Inheritance                                | Chapter 3 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
 | 8        | September 28  | Instance method Inheritance Polymorphism             | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
 | 9        | October 5     | Introduction to Swing package                        | Chapter 14 Java Programming Eight Edition, Farrell, Joyce                                         |
 | 10       | October 12    | Interfaces and event-driven programming              | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
