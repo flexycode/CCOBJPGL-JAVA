@@ -21,13 +21,13 @@ This repository contains code and resources related to the "OBJECT-ORIENTED PROG
 
 ## 🛸 Introduction
 
-Welcome to the "CCOBJPGL - Object-Oriented Programming" repository! This collection of code and resources is dedicated to the educational exploration of Object-Oriented Programming (OOP). 
+Welcome to the "CCDATRCL - Data Structure and Algorithm" repository! This collection of code and resources is dedicated to the educational exploration of Data Structures and Algorithms.
 
-The "OBJECT-ORIENTED PROGRAMMING" course is designed to equip students with a foundational understanding of OOP principles, a paradigm crucial in modern software development. 
+The "DATA STRUCTURE AND ALGORITHM" course is designed to equip students with a foundational understanding of key data structures and algorithms, essential in modern software development.
 
-OOP emphasizes organizing code around objects, encapsulation, inheritance, and polymorphism. By fostering a design approach centered on real-world entities and their interactions, OOP enhances code modularity, reusability, and maintainability. 
+Data structures provide a way to organize and store data efficiently, while algorithms offer systematic approaches to solve computational problems. By studying data structures and algorithms, students gain the ability to design efficient solutions, analyze their performance, and optimize their code.
 
-This repository serves as a practical companion to the course, providing students with hands-on examples, exercises, and project templates to solidify their grasp of OOP concepts and cultivate effective coding practices.
+This repository serves as a practical companion to the course, providing students with hands-on examples, exercises, and project templates to solidify their grasp of data structures and algorithms and cultivate effective problem-solving skills.
 
 ## 👷 Usage
 
