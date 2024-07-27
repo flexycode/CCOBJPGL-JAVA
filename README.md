@@ -11,9 +11,9 @@ This repository contains code and resources related to the "OBJECT-ORIENTED PROG
 
 ## 📋 Table of Contents
 
-- [Introduction](#introduction)
-- [Usage](#usage)
-- [KeyFeatures](#key-features) 
+- [Introduction](#-introduction)
+- [Usage](#-usage)
+- [KeyFeatures](#-key-features) 
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing) 
 - [License](#license)
