@@ -63,11 +63,11 @@ The hands-on experience gained from working with this repository's code samples 
 | 5        | September 7   | Subtyping versus Subclassing                        | Chapter 30 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
 | 6        | September 14  | Double dispatch                                     | Chapter 3 Java Programming Eight Edition, Farrell, Joyce                                          |
 | 7        | September 21  | Multiple Inheritance                                | Chapter 3 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
-| 8        | September 28  | Instance method Inheritance Polymorphism             | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
-| 9        | October 5     | Introduction to Swing package                        | Chapter 14 Java Programming Eight Edition, Farrell, Joyce                                         |
-| 10       | October 12    | Interfaces and event-driven programming              | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
-| 11       | October 19    | Threads                                              | Chapter 11 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
-| 12       | October 26    | Runnable interface Synchronization                   | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
+| 8        | September 28  | Formal Models of OOP System                         | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
+| 9        | October 5     | Unified modeling language and formal specification languages                        | Chapter 14 Java Programming Eight Edition, Farrell, Joyce                                         |
+| 10       | October 12    | Design Patterns ( Creational )            | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
+| 11       | October 19    | Design Patterns ( Structural, Behavioral )           | Chapter 11 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
+| 12       | October 26    | Design Patterns ( Model-View-Controller )            | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
 | 13       | November 2    | Course Synthesis & Final Examination                 |                                                                                                     |
 
 ## 📜 Folder Structure 
