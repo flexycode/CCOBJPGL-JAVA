@@ -1,8 +1,8 @@
-# 💫 CCOBJPGL - Object-Oriented Programming in Java
-### Name: Jay Arre Talosig  
-### Subject & Section: TBA 
-### Professor: TBA       
-### No. of Units: 3 Units
+# 💫 CCOBJPGL - Object Oriented Programming in Java
+### Name: [Jay Arre Talosig](https://github.com/flexycode)
+### Subject & Section: CCOBJPGL - COM24P1
+### Professor: Jay D. Abaleta         
+### No. of Units: 3.0 Units
 ### Prerequisite: [CCPRGG2L Intermediate Programming](https://github.com/flexycode/CCPRGG2L_INTERMEDIATE_PROGRAMMING)
 
 ## 🧠 Overview
@@ -14,10 +14,10 @@ This repository contains code and resources related to the "OBJECT-ORIENTED PROG
 - [Introduction](#-introduction)
 - [Usage](#-usage)
 - [KeyFeatures](#-key-features) 
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing) 
-- [License](#license)
-- [GitHub Repository](#github-repository) 
+- [Folder Structure](#-folder-structure)
+- [Contributing](#-contributing) 
+- [License](#-license)
+- [GitHub Repository](#-github-repository) 
 
 ## 🛸 Introduction
 
@@ -73,6 +73,7 @@ The hands-on experience gained from working with this repository's code samples 
 ## 📜 Folder Structure 
 
 ```bash
+This is for reference only ( subject-for-changes)
 /
 |-- src/            # Source code files
 |-- docs/           # Documentation files
@@ -137,7 +138,7 @@ The National University of Manila License grants permission to students of the N
 $ Kindly check the repository folder for codes
 ```
 
-#### Feel free to use this modified template for your README file. You can copy and paste it directly into your repository's README.md file.
+#### Feel free to use this modified template for your README file. You can fork it directly into your repository's file.
 
 # 💬 FAQ  
 
@@ -148,4 +149,43 @@ $ Coming Soon...
 
 # 📫 Changelogs   
 
+```bash
+## [8.0.0] - 2024-08-10      
+### Added  
+- ✨ Coming Soon
+- ✨ Coming Soon
+
+### Changed
+- ✨ Coming Soon
+
+### Fixed 
+- ✨ Coming Soon
+```
+
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
+
+<!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#-ccobjpgl---object-oriented-programming-in-java)
+
+<!-- End point line insert Thanks for visiting enjoy your day, feel free to modify this  -->
+---
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
+</p>
+
+<!-- Genshin Impact -->
+<div align="center">
+<img src="https://media.giphy.com/media/qr4CNpxIL6wwNUYZsL/giphy.gif?cid=ecf05e47iqq0k4rx0kv1fb3w4hl8dja3ouiqzx4vz1665i6b&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+</div>
+
+<!-- End point line insert Comeback again next time, feel free to modify this  -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=💎💎Come+Back+Again+next+time💎💎" alt="mystreak"/>
+</p>
+
+</p>
+    
+<br>
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
