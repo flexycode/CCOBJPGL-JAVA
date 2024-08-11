@@ -56,7 +56,7 @@ The hands-on experience gained from working with this repository's code samples 
 |          |               | - Ø College Mission & Vision                        |                                                                                                     |   
 |          |               | - Ø Course Syllabi                                  |                                                                                                     |  
 |          |               | - Ø Lab Guidelines and Safety Review                |                                                                                                     |
-| 2        | August 17     | Review of OOP Basics                                | Chapter 8&9 Java Programming Eight Edition, Farrell, Joyce                                        |    
+| 2        | August 17     | Review of OOP Basics                                | Overview of Inheritance, Interfaces and Abstract classes in Java https://medium.com/@isaacjumba/overview-of-inheritance-interfaces-and-abstract-classes-in-java-3fe22404baf8                                       |    
 | 3        | August 24     | Encapsulation, Inheritance, Polymorphism            | Chapter 7&13 Java Programming Eight Edition, Farrell, Joyce                                       |
 | 4        | August 31     | Forms of Inheritance                                | Chapter 2 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
 |          | August 27     | Programming by Contract                             | Chapter 13 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
