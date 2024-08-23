@@ -1,3 +1,6 @@
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/flexycode/CCOBJPGL-JAVA/blob/main/assets/KameHouse.jpg" />
+
 # 💫 CCOBJPGL - Object Oriented Programming in Java
 ### Name: [Jay Arre Talosig](https://github.com/flexycode)
 ### Subject & Section: CCOBJPGL - COM24P1
