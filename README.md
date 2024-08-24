@@ -163,7 +163,7 @@ $ Coming Soon...
 ```bash
 ## [8.0.0] - 2024-08-10      
 ### Added  
-- ✨ Coming Soon
+- ✨ Upload the course Sylabus
 - ✨ Coming Soon
 
 ### Changed
@@ -171,6 +171,8 @@ $ Coming Soon...
 
 ### Fixed 
 - ✨ Coming Soon
+
+
 ```
 
 <!-- End point insert background effect line of sight color rainbow -->
