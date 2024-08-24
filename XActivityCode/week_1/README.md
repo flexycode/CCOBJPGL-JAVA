@@ -1,4 +1,4 @@
-# 💫 Lab Exercise - Object and Classes
+# 💫 Lab Exercise 1 - Object and Classes
 #### Due today 8/17/2024 at 3:00 PM
 #### 30 Points
 
@@ -21,6 +21,51 @@ Create a java Object Oriented Formula Program
 2. Make a class for each Formula
 
 3. Create a choice of menu for the different formula operations
+
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
+
+# 💫 Lab Exercise 2 - Inheritance
+#### Due today 8/24/2024 at 3:00 PM
+#### 30 Points
+
+## ✍️ Instructions
+### Machine Problem:
+
+Create a java program that ask a user to enter his food menu using inheritance, inherit the attributes from the superclass only.
+
+## ✨ Task:
+Create super class that represent
+the Food Menu system.
+
+Create a sub class that contains a Menu:
+
+#### Soup
+Set of inputs:
+   - Pork sinigang
+   - Beef bulalo
+   - Chicken tinola
+     
+#### Main course
+Set of inputs:
+  - Adobo
+  - Caldereta
+  - Menudo
+    
+#### Dessert
+Set of inputs:
+  - HaloHalo
+  - Ice cream
+  - cakes
+    
+#### Appetizer
+Set of inputs:
+  -  chicharon
+  -  baked peanut 
+
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
+
 
 <!-- End point line insert Thanks for visiting enjoy your day, feel free to modify this  -->
 ---
