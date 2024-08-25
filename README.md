@@ -61,17 +61,17 @@ The hands-on experience gained from working with this repository's code samples 
 |          |               | - Ø Lab Guidelines and Safety Review                |                                                                                                     |
 | 2        | August 17     | Review of OOP Basics                                | Overview of Inheritance, Interfaces and Abstract classes in Java https://medium.com/@isaacjumba/overview-of-inheritance-interfaces-and-abstract-classes-in-java-3fe22404baf8  |    
 | 3        | August 24     | Encapsulation, Inheritance, Polymorphism            | Overview of Inheritance, Interfaces and Abstract classes in Java https://medium.com/@isaacjumba/overview-of-inheritance-interfaces-and-abstract-classes-in-java-3fe22404baf8  |
-| 4        | August 31     | Forms of Inheritance                                | Overview of Inheritance, Interfaces and Abstract classes in Java https://medium.com/@isaacjumba/overview-of-inheritance-interfaces-and-abstract-classes-in-java-3fe22404baf8  |
-|          | August 27     | Programming by Contract                             | Introduction to contract programming https://www.hillelwayne.com/post/contracts/  Programming by contract http://www.cs.unc.edu/~stotts/COMP204/contract.html |
-| 5        | September 7   | Subtyping versus Subclassing                        | Chapter 30 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
-| 6        | September 14  | Double dispatch                                     | Chapter 3 Java Programming Eight Edition, Farrell, Joyce                                          |
-| 7        | September 21  | Multiple Inheritance                                | Chapter 3 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
-| 8        | September 28  | Formal Models of OOP System                         | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
-| 9        | October 5     | Unified modeling language and formal specification languages                        | Chapter 14 Java Programming Eight Edition, Farrell, Joyce                                         |
-| 10       | October 12    | Design Patterns ( Creational )            | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
-| 11       | October 19    | Design Patterns ( Structural, Behavioral )           | Chapter 11 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
-| 12       | October 26    | Design Patterns ( Model-View-Controller )            | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
-| 13       | November 2    | Course Synthesis & Final Examination                 |                                                                                                     |
+|          | August 31     | Forms of Inheritance                                | Overview of Inheritance, Interfaces and Abstract classes in Java https://medium.com/@isaacjumba/overview-of-inheritance-interfaces-and-abstract-classes-in-java-3fe22404baf8  |
+| 4        | August  7     | Programming by Contract                             | Introduction to contract programming https://www.hillelwayne.com/post/contracts/  Programming by contract http://www.cs.unc.edu/~stotts/COMP204/contract.html |
+| 5        | September 14  | Subtyping versus Subclassing                        | https://courses.cs.washington.edu/courses/cse331/16wi/L12/L12-Subtyping.pdf                         |
+| 6        | September 21  | Double dispatch                                     | https://ardalis.com/double-dispatch-in-c-and-ddd Multiple dispatching in Python https://python-3-patterns-idioms-test.readthedocs.io/en/latest/MultipleDispatching.html |
+| 7        | September 28  | Multiple Inheritance                                | Multiple Inheritance: https://www.python-course.eu/python3_multiple_inheritance_example.php Multiple inheritance in Java: https://howtodoinjava.com/oops/multiple-inheritance-in-java/ |
+| 8        | October 5     | Formal Models of OOP System                         | UML tutorial: http://ima.udg.edu/~sellares/EINF-ES2/uml2_diagrams.pdf                               |
+| 9        | October 12    | Unified modeling language and formal specification languages  | UML Class diagram tutorial: https://medium.com/@smagid_allThings/uml-class-diagrams-tutorial-step-by-step-520fd83b300b |
+| 10       | October 19    | Design Patterns ( Creational )                      | Design pattern tutorial: Down Below                                                                 |
+| 11       | October 26    | Design Patterns ( Structural, Behavioral )          | https://www.c-sharpcorner.com/UploadFile/dev4634/design-patterns-tutorial-for-the-beginners/        |
+| 12       | October 26    | Design Patterns ( Model-View-Controller )           | Design Patterns https://www.startertutorials.com/patterns/                                          |
+| 13       | November 2    | Course Synthesis & Final Examination                |                                                                                                     |
 
 ## 📜 Folder Structure 
 
@@ -112,7 +112,7 @@ This is for reference only ( subject-for-changes)
 # 🏆 Contributing
 
 ```bash
-# Example command or set of commands
+# Coming Soon
 $ command_to_run_code
 ```
 
@@ -164,15 +164,25 @@ $ Coming Soon...
 ## [8.0.0] - 2024-08-10      
 ### Added  
 - ✨ Upload the course Sylabus
-- ✨ Coming Soon
+- ✨ Create CCOBJPGL-JAVA Repository
 
 ### Changed
-- ✨ Coming Soon
+- ✨ Rename Folder
 
 ### Fixed 
+- ✨ Fix Documentation
+
+## [8.1.1] - 2024-08-17      
+### Added  
+- ✨ Add Activity Week 1
+
+## [8.2.1] - 2024-08-24      
+### Added  
+- ✨ Add Activity Week 2
+
+## [8.3.1] - 2024-08-31      
+### Added  
 - ✨ Coming Soon
-
-
 ```
 
 <!-- End point insert background effect line of sight color rainbow -->
