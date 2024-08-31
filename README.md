@@ -182,7 +182,7 @@ $ Coming Soon...
 
 ## [8.3.1] - 2024-08-31      
 ### Added  
-- ✨ Coming Soon
+- ✨ Add Activity Week 3
 ```
 
 <!-- End point insert background effect line of sight color rainbow -->
