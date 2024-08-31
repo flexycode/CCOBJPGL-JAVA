@@ -82,7 +82,36 @@ Create an Employee Record Management that stores the information about employees
    
 3. If the constructor that has only the employee's name is inputted and assigns a default employeeID of 911111.
 
-Create a sub class that contains a Menu:
+### ✨ Sample Output:
+```code
+Test Case#1:
+
+Employee Name:_
+Employee ID no.:_
+
+Employee Information: Unknown Employee, 0
+
+Test Case#2:
+
+Employee Name: Marcus Jack
+Employee ID no.:10001
+
+Employee Information: Marcus Jack, 10001
+
+Test Case#3:
+
+Employee Name: Paul Walker
+Employee ID no.:
+
+Employee Information: Marcus Jack, 911111
+
+Test Case#4:
+
+Employee Name: Pamela la
+Employee ID no.:
+
+Employee Information: Pamela la, 911111
+```
 
 <!-- End point insert background effect line of sight color rainbow -->
 <img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
