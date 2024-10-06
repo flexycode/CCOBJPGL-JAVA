@@ -112,10 +112,56 @@ Employee ID no.:
 
 Employee Information: Pamela la, 911111
 ```
+
+# 💫 Lab Exercise 4 - Abstraction and Interface
+#### Due today 10/05/2024 at 3:00 PM
+#### 30 Points
+
+## ✍️ Instructions
+### Machine Problem:
+
+Create a Java OOP Program that will implement abstraction and interfaces to compute the salary of different types of employees.
+
+## ✨ Goal:
+
+Create an Employee interface with a method calculateEmpSalary().
+Implement the interface in different types of employees:
+- FullTimeEmployee
+- Employee Name
+- Employee Status
+- Basic Salary
+- Allowance
+- Deduction 10% tax in Gross Pay
+- Gross Pay: Basic Salary + Allowance
+- Net Salary = Gross Pay  - Deduction
+
+Display All the information
+       
+- PartTimeEmployee
+- Employee Name
+- Employee Status
+- Hourly Rate
+- Hours Worked
+- Deduction 5% tax in Gross Pay
+
+- Gross Pay: Hourly Rate * Hours Worked
+      Net Salary = Gross Pay  - Deduction
+
+
+### Requirements:
+
+1. Employee Interface:
+
+The Employee interface defines the abstract method calculateEmpSalary().
+Both full-time and part-time employees must implement this method to calculate their salary in their own way.
+
+2. Create the following Class:
+
+- FullTimeEmp class that implements Employee interface
+- PartTimeEmp class that implements Employee interface
+- Mainclass create objects for Full-time and Part-Time Employee and call the method calculateEmpSalary
+
 🤖 Lab Activity 
-
-
-
 
 
 
