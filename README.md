@@ -174,7 +174,7 @@ $ Coming Soon...
 
 ## [8.1.1] - 2024-08-17      
 ### Added  
-- ✨ Add Activity Week 1
+- ✨ Add Activity Week 1 : Object and Classes
 
 ## [8.2.1] - 2024-08-24      
 ### Added  
@@ -183,6 +183,12 @@ $ Coming Soon...
 ## [8.3.1] - 2024-08-31      
 ### Added  
 - ✨ Add Activity Week 3
+
+## [8.3.1] - 2024-10-05      
+### Added  
+- ✨ Add Lab Activity Week 4 : Abstraction and Interface
+
+🧊 Object Oriented Programming
 ```
 
 <!-- End point insert background effect line of sight color rainbow -->
