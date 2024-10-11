@@ -202,6 +202,11 @@ $ Coming Soon...
 - ✨ Add Lab Activity Week 6 : Abstraction and Interface
 - ✨ Add Lecture Module No. 6 : JAVA Abstraction and Interface
 
+## [8.3.2] - 2024-10-12      
+### Added  
+- ✨ Add Lab Activity Week 7 : Coming Soon
+- ✨ Add Lecture Module No. 7 : Coming Soon
+
 🧊 Object Oriented Programming
 ```
 
