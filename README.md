@@ -161,10 +161,11 @@ $ Coming Soon...
 # 📫 Changelogs   
 
 ```bash
-## [8.0.0] - 2024-08-10      
+## [8.0.5] - 2024-08-10      
 ### Added  
 - ✨ Upload the course Sylabus
 - ✨ Create CCOBJPGL-JAVA Repository
+- ✨ Add Lecture Module No. 1 : Introduction to OOP
 
 ### Changed
 - ✨ Rename Folder
@@ -175,18 +176,31 @@ $ Coming Soon...
 ## [8.1.1] - 2024-08-17      
 ### Added  
 - ✨ Add Activity Week 1 : Object and Classes
+- ✨ Add Lecture Module No. 2 : JAVA Object and Classes
 
 ## [8.2.1] - 2024-08-24      
 ### Added  
-- ✨ Add Activity Week 2
+- ✨ Add Activity Week 2 : 
 
-## [8.3.1] - 2024-08-31      
+## [8.3.2] - 2024-08-31      
 ### Added  
 - ✨ Add Activity Week 3
+- ✨ Add Lecture Module No. 3 : JAVA Inheritence and Polymorphism
 
-## [8.3.1] - 2024-10-05      
+## [8.3.2] - 2024-09-14      
 ### Added  
-- ✨ Add Lab Activity Week 4 : Abstraction and Interface
+- ✨ Add Activity Week 4
+- ✨ Add Lecture Module No. 4 : JAVA OOP Constructor Overloading and Overriding
+
+## [8.3.2] - 2024-09-28      
+### Added  
+- ✨ Add Activity Week 5
+- ✨ Add Lecture Module No. 5 : JAVA Design and Programming by Contracts
+
+## [8.3.2] - 2024-10-05      
+### Added  
+- ✨ Add Lab Activity Week 6 : Abstraction and Interface
+- ✨ Add Lecture Module No. 6 : JAVA Abstraction and Interface
 
 🧊 Object Oriented Programming
 ```
