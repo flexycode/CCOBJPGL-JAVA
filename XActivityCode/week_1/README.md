@@ -22,8 +22,8 @@ Create a java Object Oriented Formula Program
 
 3. Create a choice of menu for the different formula operations
 
-<!-- End point insert background effect line of sight color rainbow -->
-<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
+<!-- End point insert background effect line of sight color rainbow 
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000"> -->
 
 # 💫 Lab Exercise 2 - Inheritance
 #### Due today 8/24/2024 at 3:00 PM
@@ -160,6 +160,31 @@ Both full-time and part-time employees must implement this method to calculate t
 - FullTimeEmp class that implements Employee interface
 - PartTimeEmp class that implements Employee interface
 - Mainclass create objects for Full-time and Part-Time Employee and call the method calculateEmpSalary
+
+# 💫 Lab Exercise 5 - Encapsulation
+#### Due today 10/13/2024 at 11:00 PM
+#### 30 Points
+
+## ✍️ Instructions
+### Machine Problem:
+
+Create a user management program with Encapsulation, apply the getters and setters for the OTP validation.
+
+### ✨ Console Base Output:
+```code
+Welcome to User Management System
+Enter username: LukaDoncic
+Enter password: DallasMavericks77
+
+OTP sent to user: 610252
+
+Authentication successful. OTP has been sent.
+Enter OTP: 610252
+
+OTP validated successfully.
+
+Welcome, Luka Doncic!
+```
 
 🤖 Lab Activity 
 
