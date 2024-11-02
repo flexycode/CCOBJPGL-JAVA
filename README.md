@@ -7,10 +7,11 @@
 ### Professor: Jay D. Abaleta         
 ### No. of Units: 3.0 Units
 ### Prerequisite: [CCPRGG2L Intermediate Programming](https://github.com/flexycode/CCPRGG2L_INTERMEDIATE_PROGRAMMING)
+### Final Project Link: [CCOBJPGL_FINAL_PROJECT](https://github.com/flexycode/CCOBJPGL_FINAL_PROJECT)
 
 ## 🧠 Overview
 
-This repository contains code and resources related to the "OBJECT-ORIENTED PROGRAMMING" course in Java. The code is identified by the tag "CCOBJPGL."
+This repository contains code and resources related to the "OBJECT-ORIENTED PROGRAMMING" course in Java. The code is identified by the tag "CCOBJPGL".
 
 ## 📋 Table of Contents
 
@@ -206,6 +207,11 @@ $ Coming Soon...
 ### Added  
 - ✨ Add Lab Activity Week 7 : Coming Soon
 - ✨ Add Lecture Module No. 7 : Coming Soon
+
+## [8.3.2] - 2024-11-03      
+### Added  
+- ✨ Add Final Exam Case Study Project Repository Link
+- ✨ Update README.md
 
 🧊 Object Oriented Programming
 ```
