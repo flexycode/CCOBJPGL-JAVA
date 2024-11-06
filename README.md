@@ -211,6 +211,7 @@ $ Coming Soon...
 ## [8.3.2] - 2024-11-03      
 ### Added  
 - ✨ Add Final Exam Case Study Project Repository Link
+- ✨ Add Case Study SDLC PDF file
 - ✨ Update README.md
 
 🧊 Object Oriented Programming
